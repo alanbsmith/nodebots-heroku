@@ -1,0 +1,85 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-size: 1.4em;
+  line-height: 1.4em;
+  padding-top: 70px;
+}
+
+img {
+  max-width: 100%;
+}
+
+li {
+  font-weight: 200;
+}
+
+a {
+  color: #00adef;
+  font-weight: 200;
+}
+
+p {
+  font-weight: 200;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-weight: 200;
+}
+
+.container {
+  max-width: 600px;
+  margin: 1em auto;
+}
+
+#navbar {
+  background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+  border-radius: 0px;
+}
+
+.navbar-brand {
+  font-weight: 200;
+}
+
+.navbar-header {
+  background-color: white;
+}
+
+.thumbnail {
+  border-radius: 0px;
+}
+
+.form-control {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 0px;
+}
+
+.btn-blue {
+  background-color: #00adef;
+  border-color: #00adef;
+  font-weight: 200;
+  color: #ffffff;
+  border-radius: 0px;
+}
+
+.btn-blue:hover {
+  background-color: #11beff;
+  border-color: #11beff;
+  color: #ffffff;
+}
+
+.btn-blue:active {
+  background-color: #11beff;
+  border-color: #11beff;
+  color: #ffffff;
+}
+
+input[type=submit].btn-block {
+  color: #ffffff;
+}
